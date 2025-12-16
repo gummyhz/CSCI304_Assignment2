@@ -46,15 +46,15 @@ short get_operand (char mode) {
             break;
         case 'O':
             printf("Enter oct value: ");
-            scanf("%o", &x);
+            scanf("%ho", &x);
             break;
         case 'H':
             printf("Enter hex value: ");
-            scanf("%X", &x);
+            scanf("%hX", &x);
             break;
         default:    // default mode is decimal
             printf("Enter decimal value: ");
-            scanf("%d", &x);
+            scanf("%hd", &x);
             break;
     } 
     printf("\n");

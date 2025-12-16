@@ -1,0 +1,312 @@
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter decimal value: 
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 0000011010011101            *
+*Hex	 : 069D			       *
+*Octal	 : 003235		       *
+*Decimal : 1693			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 0000000000000000            *
+*Hex	 : 0000			       *
+*Octal	 : 000000		       *
+*Decimal : 0			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter decimal value: 
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 1111111111111111            *
+*Hex	 : FFFFFFFF		       *
+*Octal	 : 37777777777		       *
+*Decimal : -1			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Mode is Hex
+****************************************
+* Accumulator:		Input Mode: Hex*
+*Binary	 : 1111111111111111            *
+*Hex	 : FFFFFFFF		       *
+*Octal	 : 37777777777		       *
+*Decimal : -1			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter hex value: 
+****************************************
+* Accumulator:		Input Mode: Hex*
+*Binary	 : 0000100010000111            *
+*Hex	 : 0887			       *
+*Octal	 : 004207		       *
+*Decimal : 2183			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter hex value: 
+****************************************
+* Accumulator:		Input Mode: Hex*
+*Binary	 : 0000100010000110            *
+*Hex	 : 0886			       *
+*Octal	 : 004206		       *
+*Decimal : 2182			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+****************************************
+* Accumulator:		Input Mode: Hex*
+*Binary	 : 0000000000000000            *
+*Hex	 : 0000			       *
+*Octal	 : 000000		       *
+*Decimal : 0			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Mode is Oct
+****************************************
+* Accumulator:		Input Mode: Oct*
+*Binary	 : 0000000000000000            *
+*Hex	 : 0000			       *
+*Octal	 : 000000		       *
+*Decimal : 0			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter oct value: 
+****************************************
+* Accumulator:		Input Mode: Oct*
+*Binary	 : 0000101111111111            *
+*Hex	 : 0BFF			       *
+*Octal	 : 005777		       *
+*Decimal : 3071			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter oct value: 
+****************************************
+* Accumulator:		Input Mode: Oct*
+*Binary	 : 0100000000110100            *
+*Hex	 : 4034			       *
+*Octal	 : 040064		       *
+*Decimal : 16436		       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Mode is Dec
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 0100000000110100            *
+*Hex	 : 4034			       *
+*Octal	 : 040064		       *
+*Decimal : 16436		       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter decimal value: 
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 1100101111011001            *
+*Hex	 : FFFFCBD9		       *
+*Octal	 : 37777745731		       *
+*Decimal : -13351		       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+****************************************
+* Accumulator:		Input Mode: Dec*
+*Binary	 : 0000000000000000            *
+*Hex	 : 0000			       *
+*Octal	 : 000000		       *
+*Decimal : 0			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Mode is Bin
+****************************************
+* Accumulator:		Input Mode: Bin*
+*Binary	 : 0000000000000000            *
+*Hex	 : 0000			       *
+*Octal	 : 000000		       *
+*Decimal : 0			       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Enter binary value: 
+****************************************
+* Accumulator:		Input Mode: Bin*
+*Binary	 : 1111000010100001            *
+*Hex	 : FFFFF0A1		       *
+*Octal	 : 37777770241		       *
+*Decimal : -3935		       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
+Invalid option
+****************************************
+* Accumulator:		Input Mode: Bin*
+*Binary	 : 1111000010100001            *
+*Hex	 : FFFFF0A1		       *
+*Octal	 : 37777770241		       *
+*Decimal : -3935		       *
+****************************************
+Please select one of the following options:
+B   Binary Mode
+O   Octal Mode
+H   Hexadecimal Mode
+D   Decimal Mode
+
+C   Clear Accumulator
+S   Set Accumulator
+
+Q   Quit
+Option:
